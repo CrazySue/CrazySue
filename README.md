@@ -12,4 +12,3 @@ They always make some fun little things that users love, and... have a blast! (�
 Our official email: crazysue@126.com Feel free to send us suggestions or fun stuff~  
 We especially love using emoticons, except in formal documents!  
 You might even find emoticons hidden in the code!  
-We will also provide an English version, yes, the Microsoft-style English hehe (¬◡¬)✧
