@@ -62,7 +62,7 @@ Please be assured that your personal data will be hashed as irreversible strings
 
 ### The one-China principle
 We have always recognized the one-China principle and have added the word "China" before "Hong Kong", "Macao" and "Taiwan" on all occasions (except in special circumstances).
-> [！ Note]
+> [!NOTE]
 > The references to "Chinese mainland" in the documents, recommendations, methods and other information carriers we publish do not include Hong Kong, Macau, China and Taiwan.
 
 ### Political stance
@@ -78,7 +78,7 @@ We welcome any company, team or organization with whom we are interested in coop
 
 ### Sponsorship
 We never accept sponsorship from sponsors, and we hope that sponsors will focus on product optimization and user experience, rather than hyping it up by issuing business orders.
-> [！ Note]
+> [!NOTE]
 > If you see the word "Sponsored" in an ad that appears on our products, you may not be using a genuine product.
 
 ### Donate
