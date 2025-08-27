@@ -1,7 +1,7 @@
 # Crazy Sue (中国) 团队关于停止 Wechat、Weibo 账号支持的公告
 
 > [!NOTE]
-> 本文档仅提供[简体中文]()版本
+> 本文档仅提供[简体中文](https://github.com/CrazySue/CrazySue/blob/main/%E7%AE%80%E4%B8%AD-%E5%85%B3%E4%BA%8E%E5%81%9C%E6%AD%A2Wechat%E3%80%81Weibo%E8%B4%A6%E5%8F%B7%E6%94%AF%E6%8C%81%E7%9A%84%E5%85%AC%E5%91%8A.md)版本
 
 > [!NOTE]
 > 本文档仅面向中国大陆地区用户
