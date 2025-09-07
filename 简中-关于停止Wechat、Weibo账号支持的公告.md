@@ -23,6 +23,6 @@
 
 - 你可以在 Youtube 中搜索 Crazy Sue 来查看我们、我们旗下产品的详细信息 (这包括视频和文本) https://youtube.com/@crazysue-official
 - 你可以加入我们的 Discord 服务器 Crazy Sue 来和我们的开发人员获取联系 https://discord.gg/vqPRqeHF
-- 你可以通过向我们发送电子邮件来和我们的开发人员获取联系 bugs.crazysue@gmail.conm
+- 你可以通过向我们发送电子邮件来和我们的开发人员获取联系 bugs.crazysue@gmail.com
 
 愿我们在新的平台重聚。
